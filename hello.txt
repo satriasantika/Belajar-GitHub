@@ -3,3 +3,6 @@ Glad to see you
 
 **18 Februari 2023**  (Progres Belajar 40 %)
   * Mempelajari Logika Pemrograman
+
+**19 Februari 2023**  (Progres Belajar 75 %)
+  * Mempelajari Bahasa Pemrograman Javascript
