@@ -6,3 +6,6 @@ Glad to see you
 
 **19 Februari 2023**  (Progres Belajar 75 %)
   * Mempelajari Bahasa Pemrograman Javascript
+
+**20 Februari 2023**  (Progres Belajar 100 %)
+  * Membuat Aplikasi Login di Visual Studio Code
