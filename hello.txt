@@ -1,2 +1,11 @@
 #Hello Guys I'm New In Github  
-Very happy to see you!
+Glad to see you
+
+**18 Februari 2023**  (Progres Belajar 40 %)
+  * Mempelajari Logika Pemrograman
+
+**19 Februari 2023**  (Progres Belajar 75 %)
+  * Mempelajari Bahasa Pemrograman Javascript
+
+**20 Februari 2023**  (Progres Belajar 100 %)
+  * Membuat Aplikasi Login di Visual Studio Code
